@@ -6,21 +6,21 @@ body{
   position: absolute;
   top: 20%;
   border: none;
-  
   max-width: 36rem;
- 
-  
-  
 }
 
 .card-title{
-  font-weight: bold;
-  
+  font-weight: bold; 
   font-family: Poppins;
 }
 .card-text{
   
   font-family: JetBrains Mono
+
+}
+.card-footer{
+  font-family: JetBrains Mono ;
+  font-style:normal;
 
 }
 .text-new{
