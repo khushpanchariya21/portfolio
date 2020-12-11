@@ -15,11 +15,11 @@ body{
 }
 .card-text{
   
-  font-family: JetBrains Mono
+  font-family: 'JetBrains Mono', monospace;
 
 }
 .card-footer{
-  font-family: JetBrains Mono ;
+  font-family: 'JetBrains Mono', monospace;
   font-style:normal;
 
 }
