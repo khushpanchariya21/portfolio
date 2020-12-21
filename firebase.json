@@ -1,0 +1,15 @@
+{
+  "rulesFile": "database.rules.json",
+  "hosting": {
+    "site": "khush-info",
+    "public": "docs",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "remoteconfig": {
+    "template": "remoteconfig.template.json"
+  }
+}
